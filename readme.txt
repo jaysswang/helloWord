@@ -5,5 +5,4 @@ hello 4
 hello 5
 
 modify baranch dev
-hello 6
-add on master
+hello 6 
